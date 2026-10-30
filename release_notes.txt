@@ -1,1 +1,2 @@
 Preparando versión 1.1 - C12
+// Corrección de error en gráfico cuando el trabajador no tiene tareas- C14
